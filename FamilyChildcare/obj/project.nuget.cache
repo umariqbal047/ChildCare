@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VZ04Gs3IJD5seMLWhC5vbeaC+9xoK0x7YGt8vs5AlyJOVUjXtcjCm+kZBDTgQ/dAgVRIXjbMRkhZ4cw3XaLe9g==",
+  "success": true,
+  "projectFilePath": "G:\\PersonalProjects\\NasriFamilyChildcare\\FamilyChildcare\\FamilyChildcare\\FamilyChildcare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
